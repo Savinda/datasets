@@ -1,6 +1,6 @@
-ID,What is your gender?,What is your age?,What was the most important consideration for you in choosing this project?,Unnamed:,Unnamed: 4,Unnamed: 5,Unnamed: 6,How interested are you in the following benefits?,Unnamed: 8,Unnamed: 9,Unnamed: 10,
-NaN,gender,age,Location,Price,Positive Reviews,Personalization,Custom dashboard templates,SQL tutorials ,More drag-and-drop features,More ready-made formulas,,
-1.0,Female,35,Location,,,,Neutral,Very interested,Somewhat Interested,Very Interested,,
-2.0,Female,34,Loca,,,,Somewhat uninterested,Very interested,Neutral,Somewhat Interested,,
-3.0,Female,19,,Price,,,Somewhat uninterested,Neutral,Somewhat Interested,Very Interested,,
-4.0,Female,47,,Price,,,Somewhat uninterested,Neutral,Neutral,Somewhat Interested,,
+ID,What is your gender?,What is your age?,What was the most important consideration for you in choosing this project?,,,,,How interested are you in the following benefits?,,
+NaN,gender,age,Location,Price,Positive Reviews,Personalization,Custom dashboard templates,SQL tutorials ,More drag-and-drop features,More ready-made formulas
+1.0,Female,35,Location,,,,Neutral,Very interested,Somewhat Interested,Very Interested
+2.0,Female,34,Location,,,,Somewhat uninterested,Very interested,Neutral,Somewhat Interested
+3.0,Female,19,,Price,,,Somewhat uninterested,Neutral,Somewhat Interested,Very Interested
+4.0,Female,47,,Price,,,Somewhat uninterested,Neutral,Neutral,Somewhat Interested
