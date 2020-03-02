@@ -1,134 +1,134 @@
 ID,What is your gender?,What is your age?,What was the most important consideration for you in choosing this project?,,,,,How interested are you in the following benefits?,,
 ,gender,age,Location,Price,Positive Reviews,Personalization,Custom dashboard templates,SQL tutorials ,More drag-and-drop features,More ready-made formulas
-1,Female,35,Location,Price,Yes,Yes,Neutral,Very interested,Somewhat Interested,Very Interested
-2,Female,34,Location,Price,No,No,Somewhat uninterested,Very interested,Neutral,Somewhat Interested
-3,Female,31,,Price,Yes,Yes,Somewhat uninterested,Neutral,Somewhat Interested,Very Interested
-4,Female,30,,Price,Yes,Yes,Somewhat uninterested,Neutral,Neutral,Somewhat Interested
-5,Male,34,,,No,No,,,,
-6,Female,34,,,Yes,Yes,,,,
-7,Female,37,,Price,Yes,Yes,,,,
-8,Female,39,,Price,No,No,,,,
-9,Female,36,,Price,Yes,Yes,,,,
-10,Female,38,,Price,Yes,Yes,,,,
-11,Female,34,,Price,No,No,,,,
-12,Female,31,,,Yes,Yes,,,,
-13,Female,30,,,Yes,Yes,,,,
-14,Female,34,,,No,No,,,,
-15,Female,34,,Price,Yes,Yes,,,,
-16,Male,37,,Price,Yes,Yes,,,,
-17,Male,39,,Price,No,No,,,,
-18,Male,36,,Price,Yes,Yes,,,,
-19,Male,38,,Price,Yes,Yes,,,,
-20,Male,34,,,No,No,,,,
-21,Male,31,,,Yes,Yes,,,,
-22,Male,30,,,Yes,Yes,,,,
-23,Female,34,,,No,No,,,,
-24,Male,34,,,Yes,Yes,,,,
-25,Female,37,,,Yes,Yes,,,,
-26,Male,42,,,No,No,,,,
-27,Female,43,,Price,Yes,Yes,,,,
-28,Female,45,,Price,Yes,Yes,,,,
-29,Male,47,,Price,No,No,,,,
-30,Male,48,,Price,Yes,Yes,,,,
-31,Male,48,,Price,Yes,No,,,,
-32,,42,,,No,Yes,,,,
-33,,41,,,Yes,Yes,,,,
-34,,42,,,Yes,No,,,,
-35,,43,,Price,No,Yes,,,,
-36,,45,,Price,Yes,Yes,,,,
-37,,47,,Price,Yes,No,,,,
-38,,48,,Price,No,Yes,,,,
-39,,48,,Price,Yes,Yes,,,,
-40,,42,,Price,Yes,No,,,,
-41,,41,,Price,No,Yes,,,,
-42,,48,,Price,Yes,Yes,,,,
-43,,42,,Price,Yes,No,,,,
-44,,41,,Price,No,Yes,,,,
-45,,42,,,Yes,Yes,,,,
-46,,43,,Price,Yes,No,,,,
-47,,45,,Price,No,Yes,,,,
-48,,47,,Price,Yes,Yes,,,,
-49,,48,,Price,Yes,No,,,,
-50,,48,,Price,No,Yes,,,,
-51,,44,,Price,Yes,Yes,,,,
-52,,51,,Price,Yes,No,,,,
-53,,54,,Price,No,Yes,,,,
-54,,54,,Price,Yes,Yes,,,,
-55,,58,,Price,Yes,No,,,,
-56,,57,,Price,No,Yes,,,,
-57,,59,,Price,Yes,Yes,,,,
-58,,54,,Price,Yes,No,,,,
-59,,51,,Price,No,Yes,,,,
-60,,51,,Price,Yes,Yes,,,,
-61,,50,,Price,Yes,No,,,,
-62,,58,,Price,No,Yes,,,,
-63,,59,,Price,Yes,Yes,,,,
-64,,53,,Price,No,No,,,,
-65,,58,,Price,Yes,Yes,,,,
-66,,51,,Price,Yes,Yes,,,,
-67,,50,,Price,No,No,,,,
-68,,58,,Price,Yes,Yes,,,,
-69,,59,,Price,Yes,Yes,,,,
-70,,51,,Price,No,No,,,,
-71,,50,,,Yes,Yes,,,,
-72,,58,,,Yes,Yes,,,,
-73,,59,,,No,No,,,,
-74,,53,,,Yes,Yes,,,,
-75,,61,,Price,Yes,Yes,,,,
-76,,62,,Price,No,No,,,,
-77,,62,,Price,Yes,Yes,,,,
-78,,68,,Price,Yes,Yes,,,,
-79,,68,,Price,No,No,,,,
-80,,69,,,Yes,No,,,,
-81,,69,,,Yes,Yes,,,,
-82,,65,,Price,No,Yes,,,,
-83,,61,,Price,Yes,No,,,,
-84,,66,,Price,Yes,No,,,,
-85,,66,,Price,No,Yes,,,,
-86,,67,,Price,Yes,Yes,,,,
-87,,62,,,Yes,No,,,,
-88,,63,,,No,Yes,,,,
-89,,68,,Price,No,Yes,,,,
-90,,64,,Price,Yes,No,,,,
-91,,64,,Price,Yes,Yes,,,,
-92,,64,,Price,No,Yes,,,,
-93,,61,,Price,Yes,No,,,,
-94,,69,,Price,Yes,Yes,,,,
-95,,68,,Price,No,No,,,,
-96,,63,,Price,Yes,Yes,,,,
-97,,65,,Price,Yes,Yes,,,,
-98,,65,,Price,No,No,,,,
-99,,66,,Price,Yes,No,,,,
-100,,66,,Price,Yes,Yes,,,,
-101,,67,,Price,No,Yes,,,,
-102,,62,,Price,Yes,No,,,,
-103,,63,,Price,Yes,Yes,,,,
-104,,68,,Price,No,Yes,,,,
-105,,64,,Price,Yes,No,,,,
-106,,64,,Price,Yes,Yes,,,,
-107,,64,,Price,No,Yes,,,,
-108,,61,,Price,Yes,No,,,,
-109,,69,,Price,Yes,Yes,,,,
-110,,68,,Price,No,Yes,,,,
-111,,63,,Price,Yes,No,,,,
-112,,68,,Price,Yes,Yes,,,,
-113,,63,,Price,No,Yes,,,,
-114,,65,,Price,Yes,No,,,,
-115,,65,,Price,Yes,No,,,,
-116,,66,,Price,No,Yes,,,,
-117,,66,,Price,Yes,Yes,,,,
-118,,67,,Price,Yes,No,,,,
-119,,62,,Price,No,Yes,,,,
-120,,63,,Price,Yes,Yes,,,,
-121,,68,,Price,Yes,No,,,,
-122,,64,,Price,No,Yes,,,,
-123,,64,,Price,Yes,Yes,,,,
-124,,64,,Price,Yes,No,,,,
-125,,61,,Price,No,Yes,,,,
-126,,69,,Price,Yes,Yes,,,,
-127,,64,,Price,Yes,No,,,,
-128,,61,,Price,No,Yes,,,,
-129,,69,,Price,Yes,Yes,,,,
-130,,68,,Price,Yes,No,,,,
-131,,63,,Price,No,Yes,,,,
-132,,68,,Price,No,Yes,,,,
+1,Female,35,Location,Price,Yes,Yes,Very interested,Neutral,Somewhat Interested,Neutral
+2,Female,34,Location,Price,No,No,Somewhat Interested,Not Very Interested,Neutral,Neutral
+3,Female,31,,Price,Yes,Yes,Neutral,Not at All Interested,Somewhat Interested,Neutral
+4,Female,30,,Price,Yes,Yes,Not Very Interested,Neutral,Somewhat Interested,Neutral
+5,Male,34,,,No,No,Not at All Interested,Neutral,Not Very Interested,Neutral
+6,Female,34,,,Yes,Yes,Very interested,Neutral,Not at All Interested,Neutral
+7,Female,37,,Price,Yes,Yes,Somewhat Interested,Neutral,Very interested,Neutral
+8,Female,39,,Price,No,No,Neutral,Neutral,Somewhat Interested,Neutral
+9,Female,36,,Price,Yes,Yes,Not Very Interested,Neutral,Neutral,Neutral
+10,Female,38,,Price,Yes,Yes,Not at All Interested,Neutral,Not Very Interested,Neutral
+11,Female,34,,Price,No,No,Somewhat Interested,Neutral,Not at All Interested,Neutral
+12,Female,31,,,Yes,Yes,Neutral,Neutral,Somewhat Interested,Neutral
+13,Female,30,,,Yes,Yes,Not Very Interested,Neutral,Neutral,Neutral
+14,Female,34,,,No,No,Not at All Interested,Neutral,Not Very Interested,Neutral
+15,Female,34,,Price,Yes,Yes,Very interested,Neutral,Not at All Interested,Neutral
+16,Male,37,,Price,Yes,Yes,Somewhat Interested,Neutral,Very interested,Neutral
+17,Male,39,,Price,No,No,Neutral,Neutral,Somewhat Interested,Neutral
+18,Male,36,,Price,Yes,Yes,Not Very Interested,Neutral,Neutral,Neutral
+19,Male,38,,Price,Yes,Yes,Somewhat Interested,Neutral,Not Very Interested,Neutral
+20,Male,34,,,No,No,Neutral,Neutral,Somewhat Interested,Neutral
+21,Male,31,,,Yes,Yes,Not Very Interested,Neutral,Neutral,Neutral
+22,Male,30,,,Yes,Yes,Not at All Interested,Neutral,Not Very Interested,Neutral
+23,Female,34,,,No,No,Very interested,Neutral,Not at All Interested,Neutral
+24,Male,34,,,Yes,Yes,Somewhat Interested,Neutral,Very interested,Neutral
+25,Female,37,,,Yes,Yes,Neutral,Neutral,Somewhat Interested,Neutral
+26,Male,42,,,No,No,Not Very Interested,Neutral,Neutral,Neutral
+27,Female,43,,Price,Yes,Yes,,Neutral,Neutral,Neutral
+28,Female,45,,Price,Yes,Yes,Somewhat Interested,Neutral,Neutral,Neutral
+29,Male,47,,Price,No,No,Neutral,Neutral,Neutral,Neutral
+30,Male,48,,Price,Yes,Yes,Not Very Interested,Neutral,Neutral,Neutral
+31,Male,48,,Price,Yes,No,Not at All Interested,Neutral,Neutral,Neutral
+32,,42,,,No,Yes,Very interested,Neutral,Neutral,Neutral
+33,,41,,,Yes,Yes,Somewhat Interested,Neutral,Neutral,Neutral
+34,,42,,,Yes,No,Neutral,Neutral,Neutral,Neutral
+35,,43,,Price,No,Yes,Not Very Interested,Neutral,Neutral,Neutral
+36,,45,,Price,Yes,Yes,Very interested,Neutral,Neutral,Neutral
+37,,47,,Price,Yes,No,Somewhat Interested,Neutral,Neutral,Neutral
+38,,48,,Price,No,Yes,Neutral,Neutral,Neutral,Neutral
+39,,48,,Price,Yes,Yes,Not Very Interested,Neutral,Neutral,Neutral
+40,,42,,Price,Yes,No,Not at All Interested,Neutral,Neutral,Neutral
+41,,41,,Price,No,Yes,Somewhat Interested,Neutral,Neutral,Neutral
+42,,48,,Price,Yes,Yes,Neutral,Neutral,Neutral,Neutral
+43,,42,,Price,Yes,No,Not Very Interested,Neutral,Neutral,Neutral
+44,,41,,Price,No,Yes,Not at All Interested,Neutral,Neutral,Neutral
+45,,42,,,Yes,Yes,Very interested,Neutral,Neutral,Neutral
+46,,43,,Price,Yes,No,Somewhat Interested,Neutral,Neutral,Neutral
+47,,45,,Price,No,Yes,Neutral,Neutral,Neutral,Neutral
+48,,47,,Price,Yes,Yes,Not Very Interested,Neutral,Neutral,Neutral
+49,,48,,Price,Yes,No,Somewhat Interested,Neutral,Neutral,Neutral
+50,,48,,Price,No,Yes,Neutral,Neutral,Neutral,Neutral
+51,,44,,Price,Yes,Yes,Not Very Interested,Neutral,Neutral,Neutral
+52,,51,,Price,Yes,No,Not at All Interested,Neutral,Neutral,Neutral
+53,,54,,Price,No,Yes,Very interested,Neutral,Neutral,Neutral
+54,,54,,Price,Yes,Yes,Somewhat Interested,Neutral,Neutral,Neutral
+55,,58,,Price,Yes,No,Neutral,Neutral,Neutral,Neutral
+56,,57,,Price,No,Yes,Very interested,Neutral,Neutral,Neutral
+57,,59,,Price,Yes,Yes,Somewhat Interested,Neutral,Neutral,Neutral
+58,,54,,Price,Yes,No,Neutral,Not at All Interested,Neutral,Neutral
+59,,51,,Price,No,Yes,Not Very Interested,Somewhat Interested,Neutral,Neutral
+60,,51,,Price,Yes,Yes,Not at All Interested,Neutral,Neutral,Neutral
+61,,50,,Price,Yes,No,Somewhat Interested,Not Very Interested,Neutral,Neutral
+62,,58,,Price,No,Yes,Neutral,Not at All Interested,Neutral,Not at All Interested
+63,,59,,Price,Yes,Yes,Not Very Interested,Very interested,Neutral,Very interested
+64,,53,,Price,No,No,Not at All Interested,Somewhat Interested,Neutral,Neutral
+65,,58,,Price,Yes,Yes,Very interested,Neutral,Neutral,Neutral
+66,,51,,Price,Yes,Yes,Somewhat Interested,Not Very Interested,Neutral,Not at All Interested
+67,,50,,Price,No,No,Neutral,Somewhat Interested,Neutral,Somewhat Interested
+68,,58,,Price,Yes,Yes,Not Very Interested,Neutral,Neutral,Neutral
+69,,59,,Price,Yes,Yes,Somewhat Interested,Not Very Interested,Neutral,Not Very Interested
+70,,51,,Price,No,No,Neutral,Not at All Interested,Neutral,Not at All Interested
+71,,50,,,Yes,Yes,Not Very Interested,Very interested,Neutral,Very interested
+72,,58,,,Yes,Yes,Not at All Interested,Neutral,Neutral,Somewhat Interested
+73,,59,,,No,No,Very interested,Neutral,Neutral,Neutral
+74,,53,,,Yes,Yes,Neutral,Not at All Interested,Neutral,Not Very Interested
+75,,61,,Price,Yes,Yes,Neutral,Somewhat Interested,Neutral,Somewhat Interested
+76,,62,,Price,No,No,Neutral,Neutral,Not at All Interested,Neutral
+77,,62,,Price,Yes,Yes,Neutral,Not Very Interested,Very interested,Neutral
+78,,68,,Price,Yes,Yes,Neutral,Not at All Interested,Neutral,Neutral
+79,,68,,Price,No,No,Neutral,Very interested,Neutral,Neutral
+80,,69,,,Yes,No,Neutral,Somewhat Interested,Not at All Interested,Neutral
+81,,69,,,Yes,Yes,Neutral,Neutral,Somewhat Interested,Neutral
+82,,65,,Price,No,Yes,Neutral,Not Very Interested,Neutral,Neutral
+83,,61,,Price,Yes,No,Neutral,Somewhat Interested,Not Very Interested,
+84,,66,,Price,Yes,No,Neutral,Neutral,Not at All Interested,Neutral
+85,,66,,Price,No,Yes,Neutral,Not Very Interested,Very interested,Very interested
+86,,67,,Price,Yes,Yes,Neutral,Not at All Interested,Somewhat Interested,Neutral
+87,,62,,,Yes,No,Neutral,Very interested,Neutral,Neutral
+88,,63,,,No,Yes,Neutral,Neutral,Not Very Interested,Neutral
+89,,68,,Price,No,Yes,Neutral,Neutral,Somewhat Interested,Neutral
+90,,64,,Price,Yes,No,Neutral,Not at All Interested,Neutral,Neutral
+91,,64,,Price,Yes,Yes,Neutral,Very interested,Not Very Interested,Neutral
+92,,64,,Price,No,Yes,Neutral,Somewhat Interested,Not at All Interested,Neutral
+93,,61,,Price,Yes,No,Neutral,Neutral,Very interested,Neutral
+94,,69,,Price,Yes,Yes,Neutral,Not Very Interested,Neutral,Neutral
+95,,68,,Price,No,No,Neutral,Somewhat Interested,Neutral,Neutral
+96,,63,,Price,Yes,Yes,Neutral,Neutral,Not at All Interested,Not Very Interested
+97,,65,,Price,Yes,Yes,Neutral,Not Very Interested,Not at All Interested,Somewhat Interested
+98,,65,,Price,No,No,Neutral,Not at All Interested,Very interested,Neutral
+99,,66,,Price,Yes,No,Neutral,Very interested,Neutral,Neutral
+100,,66,,Price,Yes,Yes,Neutral,Not Very Interested,Neutral,Neutral
+101,,67,,Price,No,Yes,Neutral,Not at All Interested,Not at All Interested,Neutral
+102,,62,,Price,Yes,No,Neutral,Very interested,Somewhat Interested,Neutral
+103,,63,,Price,Yes,Yes,Neutral,Somewhat Interested,Neutral,Neutral
+104,,68,,Price,No,Yes,Neutral,Neutral,Not Very Interested,Neutral
+105,,64,,Price,Yes,No,Neutral,Not Very Interested,Not at All Interested,Neutral
+106,,64,,Price,Yes,Yes,Neutral,Not at All Interested,Very interested,Neutral
+107,,64,,Price,No,Yes,Neutral,Somewhat Interested,Somewhat Interested,Neutral
+108,,61,,Price,Yes,No,Neutral,Neutral,Neutral,Neutral
+109,,69,,Price,Yes,Yes,Neutral,Not Very Interested,Not Very Interested,Neutral
+110,,68,,Price,No,Yes,Neutral,Not at All Interested,Somewhat Interested,Neutral
+111,,63,,Price,Yes,No,Neutral,Very interested,Neutral,Neutral
+112,,68,,Price,Yes,Yes,Neutral,Somewhat Interested,Not Very Interested,Neutral
+113,,63,,Price,No,Yes,Neutral,Neutral,Not at All Interested,Neutral
+114,,65,,Price,Yes,No,Neutral,Not Very Interested,Very interested,Neutral
+115,,65,,Price,Yes,No,Neutral,Somewhat Interested,Neutral,Neutral
+116,,66,,Price,No,Yes,Neutral,Neutral,Neutral,Neutral
+117,,66,,Price,Yes,Yes,Neutral,Not Very Interested,Not at All Interested,Neutral
+118,,67,,Price,Yes,No,Neutral,Not at All Interested,Neutral,Neutral
+119,,62,,Price,No,Yes,Neutral,Very interested,Neutral,Neutral
+120,,63,,Price,Yes,Yes,Neutral,Somewhat Interested,Neutral,Neutral
+121,,68,,Price,Yes,No,Neutral,Neutral,Neutral,Neutral
+122,,64,,Price,No,Yes,Neutral,Not Very Interested,Neutral,Neutral
+123,,64,,Price,Yes,Yes,Neutral,Neutral,Neutral,Neutral
+124,,64,,Price,Yes,No,Neutral,Somewhat Interested,Neutral,Neutral
+125,,61,,Price,No,Yes,Neutral,Neutral,Neutral,Neutral
+126,,69,,Price,Yes,Yes,Neutral,Not Very Interested,Neutral,Neutral
+127,,64,,Price,Yes,No,Neutral,Not at All Interested,Neutral,Neutral
+128,,61,,Price,No,Yes,Neutral,Very interested,Neutral,Neutral
+129,,69,,Price,Yes,Yes,Neutral,Somewhat Interested,Neutral,Neutral
+130,,68,,Price,Yes,No,Neutral,Neutral,Neutral,Neutral
+131,,63,,Price,No,Yes,Neutral,Not Very Interested,Neutral,Neutral
+132,,68,,Price,No,Yes,Neutral,Very interested,Neutral,Neutral
