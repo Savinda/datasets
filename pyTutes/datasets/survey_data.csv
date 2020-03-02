@@ -1,5 +1,5 @@
 ID,What is your gender?,What is your age?,What was the most important consideration for you in choosing this project?,,,,,How interested are you in the following benefits?,,
-NaN,gender,age,Location,Price,Positive Reviews,Personalization,Custom dashboard templates,SQL tutorials ,More drag-and-drop features,More ready-made formulas
+,gender,age,Location,Price,Positive Reviews,Personalization,Custom dashboard templates,SQL tutorials ,More drag-and-drop features,More ready-made formulas
 1,Female,35,Location,Price,Yes,Yes,Neutral,Very interested,Somewhat Interested,Very Interested
 2,Female,34,Location,Price,No,No,Somewhat uninterested,Very interested,Neutral,Somewhat Interested
 3,Female,31,,Price,Yes,Yes,Somewhat uninterested,Neutral,Somewhat Interested,Very Interested
